@@ -1,3 +1,6 @@
+// Question link: https://www.hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/micro-and-prime-prime-1/description/
+// Problem based on seive of erasthothesis
+
 #include <bits/stdc++.h>
 using namespace std;
 
